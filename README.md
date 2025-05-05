@@ -1,3 +1,10 @@
+Fully implement task
+
+command to run:
+```bash
+npm run start -- --username=your_username
+```
+
 # Assignment: File Manager
 
 ## Description
