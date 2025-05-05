@@ -1,0 +1,20 @@
+{
+  "name": "node-file-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "node js file manager according to requirements in RS school",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petravetsma/node-file-manager.git"
+  },
+  "author": "Nikita Petrovets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petravetsma/node-file-manager/issues"
+  },
+  "homepage": "https://github.com/petravetsma/node-file-manager#readme"
+}
